@@ -1,3 +1,5 @@
+**Branch [stable](https://github.com/TangSiyang2001/kickstart.nvim/tree/stable) contains my own neovim config based on kickstart.nvim.**
+
 # kickstart.nvim
 
 ## Introduction
